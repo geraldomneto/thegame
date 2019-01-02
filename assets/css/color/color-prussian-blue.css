@@ -1,28 +1,28 @@
 a {
-    color: #003262;
+    color: #465068;
 }
 .bg-gray {
 	background-color: #edf5ff;
 }
 .section-title span {
-	color: #003262;
+	color: #465068;
 }
 .section-title h3::before {
-	background: #003262;
+	background: #465068;
 }
 .owl-theme .owl-nav [class*="owl-"] {
-	color: #003262;
+	color: #465068;
 }
 .owl-theme .owl-nav [class*="owl-"]:hover {
-	background: #003262;
+	background: #465068;
 }
 .btn-primary {
-	background-color: #003262;
-	border-color: #003262;
+	background-color: #465068;
+	border-color: #465068;
 }
 .btn-primary.disabled, .btn-primary:disabled {
-	background-color: #003262;
-	border-color: #003262;
+	background-color: #465068;
+	border-color: #465068;
 }
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
 	background-color: #5C5C78;
@@ -33,157 +33,157 @@ a {
 	border-color: #5C5C78;
 }
 .double-bounce1, .double-bounce2 {
-	background-color: #003262;
+	background-color: #465068;
 }
 .navbar-brand span {
-	color: #003262;
+	color: #465068;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-	color: #003262;
+	color: #465068;
 }
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-	color: #003262;
+	color: #465068;
 }
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-	color: #003262;
+	color: #465068;
 }
 .creative-bg {
-	background: #003262;
+	background: #465068;
 }
 .creative-bg-two {
-	background: #003262;
+	background: #465068;
 }
 .single-features:hover {
-    background: #003262;
+    background: #465068;
 }
 .single-features i {
-	color: #003262;
+	color: #465068;
 }
 .about-content ul li i {
-    color: #003262;
+    color: #465068;
 }
 .about-text ul li i {
-    color: #003262;
+    color: #465068;
 }
 .about-text span {
 	background: rgba(0, 50, 98, .6);
 }
 .about-text .blockquote {
-	background: rgba(0, 50, 98, .2);
+	background: rgba(0, 50, 98, .6);
 }
 .single-services:hover {
-	background: #003262;
+	background: #465068;
 }
 .single-services i {
-	background: #003262;
+	background: #465068;
 }
 .single-services:hover i {
-	color: #003262;
+	color: #465068;
 }
 .tabs a:hover i, .tabs .current a i {
-    background: #003262;
+    background: #465068;
 }
 .tabs_item_content ul li i {
-	color: #003262;
+	color: #465068;
 }
 .tabs a:hover, .tabs .current a {
-    color: #003262;
+    color: #465068;
 }
 .funfacts-area::before {
-	background: #003262;
+	background: #465068;
 }
 .funFact i {
-	color: #003262;
+	color: #465068;
 }
 .fun-fact i {
-	color: #003262;
+	color: #465068;
 }
 .single-box:hover span {
-    background: #003262;
+    background: #465068;
 }
 .our-team .social li a {
-    color: #003262;
+    color: #465068;
 }
 .our-team .social li a:hover {
-    background: #003262;
+    background: #465068;
 }
 .single-team .pic::after {
-	border: 2px solid #003262;
+	border: 2px solid #465068;
 }
 .single-team .social-links li a:hover {
-	background: #003262;
-	border-color: #003262;
+	background: #465068;
+	border-color: #465068;
 }
 .single-team .team-content {
-	border-top: 2px solid #003262;
+	border-top: 2px solid #465068;
 }
 .testimonials-item:hover {
-    background: #003262;
+    background: #465068;
 }
 .client-info .client-title span {
-    color: #003262;
+    color: #465068;
 }
 .accordion .accordion-title {
-    background: #003262;
+    background: #465068;
 }
 .pricingTable .title {
-    background: #003262;
+    background: #465068;
 }
 .pricingTable:hover .price-value {
-    background: #003262;
+    background: #465068;
 }
 .pricing-table:hover .icon {
-	background: #003262;
+	background: #465068;
 }
 .pricing-table .pricing-table-header {
-	background: #003262;
+	background: #465068;
 }
 .pricing-table .icon {
-	color: #003262;
+	color: #465068;
 }
 .partner-area .owl-item img {
-	border: 1px solid #003262;
+	border: 1px solid #465068;
 }
 .subscribe-area {
-    background: #003262;
+    background: #465068;
 }
 .newsletter h4 span {
-    color: #003262;
+    color: #465068;
 }
 .page-title {
-    background: #003262;
+    background: #465068;
 }
 .contact-box .icon {
-	border: 1px dashed #003262;
-	color: #003262;
+	border: 1px dashed #465068;
+	color: #465068;
 }
 .contact-box:hover .icon {
-	background: #003262;
+	background: #465068;
 }
 .contact-box .content p a:hover {
-	color: #003262;
+	color: #465068;
 }
 .single-footer .logo a span {
-	color: #003262;
+	color: #465068;
 }
 .single-footer ul li a:hover {
-	color: #003262;
+	color: #465068;
 }
 .single-footer .contact-info li i {
-	color: #003262;
+	color: #465068;
 }
 .copyright-area ul li a {
-	border: 1px solid #003262;
+	border: 1px solid #465068;
 }
 .copyright-area ul li a:hover {
-	background: #003262;
-    border-color: #003262;
+	background: #465068;
+    border-color: #465068;
 }
 .go-top:hover {
-	background: #003262;
+	background: #465068;
 }
 .navbar-light .navbar-toggler {
-	border-color: #003262;
+	border-color: #465068;
 }
 .navbar-light .navbar-toggler-icon {
 	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 50, 98, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
